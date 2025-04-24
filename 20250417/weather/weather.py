@@ -3,9 +3,12 @@
 
 import untangle
 
-url = "https://xml.smg.gov.mo/c_actualweather.xml"
+url = "https://xml.smg.gov.mo/c_actual_brief.xml"
 data = untangle.parse(url)
 
 # Get the first temperature value
 
-temp = data.ActualWeatherBrief
+temperatures: list[untangle.Element] = data.ActualWeatherBrief.Custom.Temperature
+
+for temperature in temperatures:
+    print(temperature.Value.cdata)
