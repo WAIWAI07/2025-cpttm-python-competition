@@ -50,7 +50,7 @@ for a_tag in a_tags:
 
     news_soup = bs4.BeautifulSoup(news_html.text, "html.parser")
 
-    news_content = '\n'.join([i.text.rstrip() for i in news_soup.find_all("p")])
+    news_content = '\n'.join([i.text.rstrip() for i in news_soup.find_all("p") if i.text])
 
     print(news_title)
 
