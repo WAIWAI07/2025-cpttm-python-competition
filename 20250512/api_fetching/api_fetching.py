@@ -45,5 +45,4 @@ response = requests.post(url, headers=headers, json=payload)
 data = response.json()
 
 # Print the response
-if response.status_code == 200:
-    print("Response:", data)
+print(data)

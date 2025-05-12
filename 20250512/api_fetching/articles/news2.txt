@@ -1,0 +1,31 @@
+Apple developing custom chips for smart glasses and more
+
+Muhammad Zulhusni
+
+Apple continues its focus on hardware produced in-house, and is currently working on a new generation of chips for future hardware, according to Bloomberg.
+
+The processors are thought to be destined for use in smart glasses, AI-capable servers, and the next generations of Macs.
+
+One project involves a custom chip designed for smart glasses, which are thought to offer voice commands, photo capture, and audio playback, but will not be full augmented reality (AR) devices. The chip design is based on the low-power components used at present in the latest models of the Apple Watch, but modified to use less energy and support multiple cameras.
+
+Apple has yet to comment on any of the rumoured projects ­ it’s a company with a strict policy of keeping the products it may, or may not be developing under wraps. However, production for the glasses chip is said to begin by late 2026 or early 2027. If that timeline holds true, devices could reach the market in two years. As with most of Apple’s chips, Taiwan Semiconductor Manufacturing Co. is expected to handle production.
+
+Smart glasses have been in development at Apple for several years, industry insiders claim. The company aims to build full AR wearables that overlay digital information onto real-world views, but the technology is yet to be ready for everyday use. In this sector, Meta has already broken some ground, launching smart glasses in partnership with Ray-Ban. Apple seems to be pursuing a similar product, minus the AR features – at least, in any device’s first iteration.
+
+Sources say Apple is developing both AR and non-AR glasses under the codename N401, previously N50. According to reports, Apple’s CEO Tim Cook hopes for the company to take a lead in this market segment. Meta, meanwhile, is expanding its own product line, planning to debut a high-end model of its Ray-Ban style device with a display later this year. The company is said to be targeting 2027 for its first, fully-AR glasses gadget.
+
+Apple’s non-AR glasses could use cameras to scan the environment and apply AI to assist users, mirroring Meta’s current strategy. Apple is said to be biding its time, and waiting for AI software to mature before committing to a full product release.
+
+In the meantime, Apple is exploring other avenues to improve its current product lines, with engineers reportedly testing features like cameras in AirPods and smartwatches, which will likely use Apple chips currently in development. Codename “Nevis” is slated for a camera-enabled Apple Watch, while “Glennie” is intended for AirPods. Both are thought to be planned for release by 2027.
+
+Apple is said to be preparing a new set of processors specifically for Macs; the M6 (Komodo) and M7 (Borneo), and a higher-end chip “Sotra”. Apple is also thought to be planning to upgrade the iPad Pro and MacBook Pro with its M5 chip later this year.
+
+Internal-to-Apple chip development efforts are part of Apple’s broader push to control the full hardware stack of its products. The hardware group, led by Johny Srouji, has been expanding its portfolio: Earlier this year, Apple launched its first in-house modem chip in the iPhone 16e, with a higher-end version, the C2, planned for release in 2026.
+
+(Photo by Unsplash)
+
+See also: Apple AI stresses privacy with synthetic and anonymised data
+
+Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is co-located with other leading events including Intelligent Automation Conference, BlockX, Digital Transformation Week, and Cyber Security & Cloud Expo.
+
+Explore other upcoming enterprise technology events and webinars powered by TechForge here.
