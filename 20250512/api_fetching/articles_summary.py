@@ -10,7 +10,7 @@ for filename in os.listdir("articles"):
             content = file.read()
 
         # Ask AI for a summary
-        summary = ask_ai(f"Please conclude this news with points in Tradition Chinese in markdown:\n{content}")
+        summary = ask_ai(f"Please conclude this news with points in Tradition Chinese in markdown, without return the original language version:\n{content}")
         
         # Ask AI for a file name
         file_name = ask_ai(f"Please give a suitable title name for this news in Traditional Chinese, with format 'YYYY-MM-DD-<THE TITLE YOU GAVE>', if you can find the date of the acticle from the acticle, then use the date from the acticle, otherwise return the title name only without date:\n{content}").strip()
